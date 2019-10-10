@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--test 2.0
-
-VCS-commit提交项目到git本地仓库中，一般默认为项目目录
-提交完后可以VCS-git-recent来返回到本地仓库该项目的版本
-VCS-git-push更新自己的项目并且commit到本地仓库，然后再上传到github中
-
--->
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
